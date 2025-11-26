@@ -1,0 +1,12 @@
+{
+  "version": "3.4",
+  "type": "table",
+  "icon": "box",
+  "title": "user who pid",
+  "hideInSidebar": false,
+  "config": {
+    "dataSource": "postgres_db_8u5b42",
+    "fetchStrategy": "databaseTable",
+    "table": "Registrationedpeople"
+  }
+}

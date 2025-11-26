@@ -1,0 +1,22 @@
+{
+  "main": {
+    "id": "f9db87ce-d977-4729-a6b2-d0abfa987dcc",
+    "meta": {
+      "name": "ESUT ENS Admin Panel",
+      "icon": "https://web.kottster.app/icon.png"
+    },
+    "dataSources": {
+      "postgres_db_0rwmn1": {
+        "type": "postgres",
+        "url": "postgres://2089541d14fc56fb1d3b1b7c7a3464663c8ad9c782857dbfb3e1a593dc2ceaef:sk_-GNdHxYyUcILx--PyTiLL@db.prisma.io:5432/postgres?sslmode=require"
+      }
+    }
+  },
+  "sidebar": {
+    "menuPageOrder": [
+      "allUser",
+      "userList",
+      "userWhoPid"
+    ]
+  }
+}

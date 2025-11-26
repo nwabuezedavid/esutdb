@@ -1,0 +1,12 @@
+{
+  "version": "3.4",
+  "type": "dashboard",
+  "icon": "users",
+  "title": "all user",
+  "hideInSidebar": false,
+  "config": {
+    "withDateRangePicker": false,
+    "stats": [],
+    "cards": []
+  }
+}
